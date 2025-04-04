@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Soroush Asadi
-- **Author Contact**: https://www.linkedin.com/in/soroush-asadi-881098178/
+- **Author Contact**: [Linkedin](https://www.linkedin.com/in/soroush-asadi-881098178/)
 - **Date**: 2025-03-28
 
 ## Validated By:
